@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NagaRani5/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/NagaRani5/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NagaRani5/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NagaRani5/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NagaRani5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/NagaRani5/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NagaRani5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/NagaRani5/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Design
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NagaRani5/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NagaRani5/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
