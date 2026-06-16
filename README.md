@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NagaRani5/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagaRani5/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NagaRani5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1470-shuffle-the-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
