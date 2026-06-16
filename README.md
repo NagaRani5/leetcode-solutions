@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NagaRani5/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NagaRani5/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NagaRani5/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/NagaRani5/leetcode-solutions/tree/master/0263-ugly-number) |
 ## Simulation
 |  |
 | ------- |
