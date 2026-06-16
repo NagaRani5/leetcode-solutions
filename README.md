@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/NagaRani5/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NagaRani5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NagaRani5/leetcode-solutions/tree/master/0027-remove-element) |
 | [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0015-3sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
