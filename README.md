@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NagaRani5/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/NagaRani5/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/NagaRani5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/NagaRani5/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NagaRani5/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/NagaRani5/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/NagaRani5/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NagaRani5/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/NagaRani5/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/NagaRani5/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NagaRani5/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
