@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/NagaRani5/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NagaRani5/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
