@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/NagaRani5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NagaRani5/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NagaRani5/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NagaRani5/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
