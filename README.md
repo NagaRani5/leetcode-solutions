@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/NagaRani5/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/NagaRani5/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/NagaRani5/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/NagaRani5/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/NagaRani5/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRani5/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NagaRani5/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRani5/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
