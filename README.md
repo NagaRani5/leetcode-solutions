@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/NagaRani5/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRani5/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NagaRani5/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/NagaRani5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NagaRani5/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NagaRani5/leetcode-solutions/tree/master/0027-remove-element) |
+| [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NagaRani5/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
