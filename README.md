@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NagaRani5/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/NagaRani5/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3248-snake-in-matrix](https://github.com/NagaRani5/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3842-toggle-light-bulbs](https://github.com/NagaRani5/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/NagaRani5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/NagaRani5/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/NagaRani5/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3842-toggle-light-bulbs](https://github.com/NagaRani5/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Design
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NagaRani5/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3842-toggle-light-bulbs](https://github.com/NagaRani5/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 |  |
 | ------- |
