@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagaRani5/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NagaRani5/leetcode-solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/NagaRani5/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/NagaRani5/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/NagaRani5/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0055-jump-game) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
