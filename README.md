@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NagaRani5/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/NagaRani5/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/NagaRani5/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/NagaRani5/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagaRani5/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NagaRani5/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -226,4 +227,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/NagaRani5/leetcode-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/NagaRani5/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/NagaRani5/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
