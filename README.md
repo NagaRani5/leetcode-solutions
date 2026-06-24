@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NagaRani5/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/NagaRani5/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/NagaRani5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/NagaRani5/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/NagaRani5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/NagaRani5/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NagaRani5/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/NagaRani5/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/NagaRani5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/NagaRani5/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/NagaRani5/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/NagaRani5/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/NagaRani5/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NagaRani5/leetcode-solutions/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/NagaRani5/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/NagaRani5/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/NagaRani5/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/NagaRani5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
